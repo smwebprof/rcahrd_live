@@ -1,0 +1,5 @@
+[04-Aug-2021 08:40:15 UTC] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl/novalidate-cert}INBOX in /home1/rcahrube/public_html/test.php on line 5
+[04-Aug-2021 08:41:15 UTC] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl/novalidate-cert}INBOX in /home1/rcahrube/public_html/test.php on line 5
+[04-Aug-2021 08:42:22 UTC] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl/novalidate-cert}INBOX in /home1/rcahrube/public_html/test.php on line 5
+[04-Aug-2021 08:44:00 UTC] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl/novalidate-cert}INBOX in /home1/rcahrube/public_html/test.php on line 5
+[04-Aug-2021 08:45:01 UTC] PHP Warning:  imap_open(): Couldn't open stream {imap.gmail.com:993/imap/ssl/novalidate-cert}INBOX in /home1/rcahrube/public_html/test.php on line 5
